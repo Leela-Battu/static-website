@@ -1,60 +1,84 @@
-\# Static Website Hosting with GitHub Pages
+# Task 5: Static Website Hosting with GitHub Pages
 
+This project demonstrates how to host a static website using GitHub Pages with HTML and CSS.
 
+---
 
-\## Objective
+## Objective
 
-Deploy a static website using GitHub Pages.
+Deploy a static website using GitHub Pages and make it publicly accessible.
 
+## Tools Used
 
+- HTML
+- CSS
+- Git
+- GitHub
+- GitHub Pages
 
-\## Tools Used
+## Project Description
 
-\- HTML
+Created a simple and responsive DevOps portfolio website using HTML and CSS.
 
-\- CSS
+The website includes:
+- About Me
+- Technical Skills
+- Projects
+- GitHub Profile Link
 
-\- Git
+---
 
-\- GitHub
+## Website Features
 
-\- GitHub Pages
+- Simple and clean user interface
+- Responsive layout
+- DevOps skills and project details
+- Publicly accessible website
 
+---
 
+## Deployment Workflow
 
-\## Project Description
+    Create HTML Website
+            ↓
+    Initialize Git Repository
+            ↓
+    Push Code to GitHub
+            ↓
+    Enable GitHub Pages
+            ↓
+    Deploy Static Website
+            ↓
+    Access Website Using Live URL
 
-Created a simple DevOps portfolio website using HTML and CSS. It includes About Me, Technical Skills, and Projects sections.
+---
 
+## Deployment Steps
 
+1. Created an `index.html` file with HTML and CSS.
+2. Initialized a Git repository.
+3. Committed the website files.
+4. Pushed the code to GitHub.
+5. Enabled GitHub Pages from repository settings.
+6. Selected the `main` branch and root folder.
+7. Accessed the published website using its live URL.
 
-\## Deployment Steps
+---
 
-1\. Created an `index.html` file.
+## Live Website
 
-2\. Pushed the website code to GitHub.
+[Visit My Portfolio Website](https://leela-battu.github.io/static-website/)
 
-3\. Enabled GitHub Pages in repository settings.
+## GitHub Repository
 
-4\. Selected the `main` branch and root folder.
+[View Source Code](https://github.com/Leela-Battu/static-website)
 
-5\. Published the website using GitHub Pages.
+---
 
+## Result
 
+Successfully deployed and hosted a static DevOps portfolio website using GitHub Pages.
 
-\## Live Website
+## Conclusion
 
-https://leela-battu.github.io/static-website/
-
-
-
-\## GitHub Repository
-
-https://github.com/Leela-Battu/static-website
-
-
-
-\## Result
-
-Successfully hosted a static portfolio website using GitHub Pages.
-
+This project demonstrates the basics of static website hosting, Git version control, and GitHub Pages deployment.
